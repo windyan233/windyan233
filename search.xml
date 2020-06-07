@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>hexo博客的优化之路</title>
+      <link href="/2020/06/07/hexo-bo-ke-de-you-hua-zhi-lu/"/>
+      <url>/2020/06/07/hexo-bo-ke-de-you-hua-zhi-lu/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+            <tag> 优化 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>序章|INTRO</title>
       <link href="/2020/05/25/xu-zhang/"/>
       <url>/2020/05/25/xu-zhang/</url>
