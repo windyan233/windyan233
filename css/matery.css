@@ -34,12 +34,12 @@
 }
 
 body {
-    /* background-color: #eaeaea; */
-    background: linear-gradient url("https://cdn.jsdelivr.net/gh/windyan233/blogimg//image/20200608173316.jpg")  0px;
-    background-attachment: fixed;
+    background-color: #faf9f9;
     margin: 0;
-    color: #7F95D1;
+    color: #0a0a0a;
+    
 }
+
 
 
 h1 {
