@@ -34,9 +34,10 @@
 }
 
 body {
-    background-color: #eaeaea;
+    background-color: #000000;
     margin: 0;
-    color: #34495e;
+    color: #000000;
+    opacity: 0.3;
 }
 
 h1 {
