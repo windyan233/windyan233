@@ -295,7 +295,7 @@
 
 
  <div id="loading-container">
-     <p class="loading-text">玩命加载中 . . . </p> 
+     <p class="loading-text">稍等哦，玩命加载中 . . . </p> 
      <div class="loading-image">
          <div></div>
          <div></div>
@@ -722,7 +722,7 @@
 <center>如果大家感兴趣的话</center>
 <center>请多多关注啦</center>
 
-<p> 　　　<br><img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2233920082,362674713&fm=26&gp=0.jpg" alt=""></p>
+<p> 　　　<br><img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2233920082,362674713&amp;fm=26&amp;gp=0.jpg" alt=""></p>
 <a id="more"></a>
 
 
@@ -737,12 +737,30 @@
 <p>pps.最近几天一直忙于弄这个，ddl都快堆积成山了……（反正从今天开始的一段时间我应该都没时间碰它了）这个博客还有很多地方尚不完善，以后会一步步去优化，而且在这个过程中，很多时候都是参照他人的做法照猫画虎而已，也希望自己能早日理解代码后面的原理吧</p>
 <p>ppps.等我有钱了，再给它买个属于自己的域名！</p>
 <p><font size="6">-关于我-</font><br>————————</p>
-<p><font face="楷体"> 目前大一（<del>丝毫没有返校即大二的觉悟</del><br>坐标武汉 ♀<br>就读于关山口男子职业技术学院 　<br>是个不折不扣的咸鱼</p>
-<p>灵魂尚在飘荡<br>心无栖息之所<br>什么都爱<br>但有时又什么都不爱<br>今年是跟世界交手的第十八年<br>一路上跌跌撞撞<br>有过沮丧<br>有过孤独<br>有过迷茫<br>但一颗纯粹认真的心从没变过</font></p>
+<p><font face="楷体"> 目前大一（<del>丝毫没有返校即大二的觉悟</del><br>坐标武汉 ♀<br>就读于关山口男子职业技术学院 　<br>是个不折不扣的咸鱼</font></p><font face="楷体">
+</font><p><font face="楷体">灵魂尚在飘荡<br>心无栖息之所<br>什么都爱<br>但有时又什么都不爱<br>今年是跟世界交手的第十八年<br>一路上跌跌撞撞<br>有过沮丧<br>有过孤独<br>有过迷茫<br>但一颗纯粹认真的心从没变过</font></p>
 <p>————————<br>“<br>你先读你的书<br>我也看我的电影<br>终有一天<br>我们会窝在一起<br>读同一本书<br>看同一部电影<br>又或许是<br>敲同一段代码(ಥ _ ಥ)<br>”</p>
 <center>我们终将相遇 </center>
 
-
+</font></center></center><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>
             </div>
             <hr/>
 
@@ -1480,7 +1498,7 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">1.9k</span>&nbsp;字
+                class="white-color">2.1k</span>&nbsp;字
             
             
             
