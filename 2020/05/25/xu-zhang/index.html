@@ -516,7 +516,7 @@
 <script src="/libs/cryptojs/crypto-js.min.js"></script>
 <script>
     (function() {
-        let pwd = 'b79f4de2a8161ae466f1ed5d33e7e7896242a127d19fd01ad776a5e372040507';
+        let pwd = '';
         if (pwd && pwd.length > 0) {
             if (pwd !== CryptoJS.SHA256(prompt('没密码可进不去哦~')).toString(CryptoJS.enc.Hex)) {
                 alert('嘻嘻嘻密码错误！');
