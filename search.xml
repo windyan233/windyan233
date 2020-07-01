@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>记忆的本质是什么</title>
+      <link href="/2020/07/01/ji-yi-de-ben-zhi-shi-shi-me/"/>
+      <url>/2020/07/01/ji-yi-de-ben-zhi-shi-shi-me/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://cdn.jsdelivr.net/gh/windyan233/blogimg//image/20200701091701.png" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 记忆 </tag>
+            
+            <tag> 科学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>《你想活出怎样的人生》摘要</title>
       <link href="/2020/06/28/ni-xiang-huo-chu-zen-yang-de-ren-sheng/"/>
       <url>/2020/06/28/ni-xiang-huo-chu-zen-yang-de-ren-sheng/</url>
