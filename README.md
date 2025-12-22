@@ -1,4 +1,4 @@
-## Hi there 👋 I'm windyan 
+## Hi there 👋 I'm Windyan 
 
 <!--
 **windyan233/windyan233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
