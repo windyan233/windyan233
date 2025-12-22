@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 HUST B.Sc. -> HKUST M.Phil. @VisLab
+- 🌱 Passionate about AI product/Crypto/Macro economics/Investment, etc.
 - 💻 Building cool things with a happy vibe!
 - ✨ Let's connect!
