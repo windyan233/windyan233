@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 HUST B.Sc. -> HKUST M.Phil. @VisLab
+- 💻 Building cool things with a happy vibe!
+- ✨ Let's connect!
