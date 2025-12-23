@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 🌱 Passionate about AI product/Crypto/Macro economics/Investment, etc.
 - 💻 Building cool things with a happy vibe!
 - ✨ Let's connect!
+
+### 明年要把格子填得更满！
+<img width="1080" height="1080" alt="8e5cb8b3200b9c7a8aea9ec75f6d41d6" src="https://github.com/user-attachments/assets/58f43f75-a487-4865-be34-971b1401f978" />
+
